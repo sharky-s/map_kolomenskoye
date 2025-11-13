@@ -99,4 +99,15 @@ m
 - описаниями объектов.
 
 
+## 🌐 GitHub Pages
+
+Проект опубликован как статический сайт на GitHub Pages.
+
+**Онлайн-карта:**
+<p align="left">
+  <a href="https://sharky-s.github.io/map_kolomenskoye/" target="_blank">
+    <img src="https://img.shields.io/badge/Открыть%20карту-online-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Open map">
+  </a>
+</p>
+
 *Москва, 2024*
